@@ -1,0 +1,2 @@
+TELEGRAM_TOKEN = "DEIN_BOT_TOKEN_HIER_EINFÜGEN"
+DUMP_FILE = "truecaller_dump.csv"
